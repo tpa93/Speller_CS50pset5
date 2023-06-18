@@ -1,6 +1,7 @@
 # Speller
 # CS50 problem set week 5 - C
 This repository shows my implementation of the related problem set.
+https://cs50.harvard.edu/x/2023/psets/5/speller/
 
 During week 5 in CS50 the problem set given was to create a C console application for spell-checking texts against dictionaires.
 The goal of week 5 was to understand data structures like linked lists, hash tables and tries f.e.
